@@ -1,0 +1,7 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+title: Arturo Balbin
+tagline: 
+description: My blog
+paginate: 5
